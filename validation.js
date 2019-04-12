@@ -4,6 +4,10 @@ export const checkEmail = email => {
   return regEmail.test(email)
 }
 
+export const checkObjKey = (obj, key) => {
+  return key in obj
+}
+
 export const arrayLength = arr => {
   return arr.length > 0
 }

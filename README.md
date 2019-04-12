@@ -1,6 +1,12 @@
 # javascript 주요 문법 & utils
 
 ## javascript 주요 문법
+- 주요 문법과 예제는 mdn 을 참고하였습니다.
+https://developer.mozilla.org
+
+### Array
+- 익숙하지 않지만 유용한 Array method
+
 ### ecma
 - 추가된 ecma
 
