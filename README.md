@@ -10,6 +10,9 @@ https://developer.mozilla.org
 ### ecma
 - 추가된 ecma
 
+### Object
+- 익숙하지 않지만 유용한 Object method
+
 ##utils
 ### asyncForEach
 - 반복문(forEach) 비동기 함수 처리
